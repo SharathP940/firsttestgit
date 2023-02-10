@@ -1,0 +1,3 @@
+variable "tfrg" {
+  name="tftrg"
+}

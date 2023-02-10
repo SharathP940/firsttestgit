@@ -1,3 +1,3 @@
 variable "tfrg" {
-  name="tftrg"
+  default="tftrg"
 }
